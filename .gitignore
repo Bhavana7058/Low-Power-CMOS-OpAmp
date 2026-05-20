@@ -1,0 +1,12 @@
+# Cadence files
+*.log
+*.raw
+*.tmp
+*.bak
+
+# Simulation folders
+psf/
+INCA_libs/
+
+# Temporary files
+*.swp
